@@ -12,6 +12,10 @@ This is a simple weather app that fetches current weather data from the OpenWeat
 
 ## Running Scripts
 To run these scripts, you can either activate the virtual environment provided in this repository or install the libraries listed in the requirements.txt file.
+To install the necessary dependencies, run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
 
 You can modify the config file according to your needs. Note that the OpenWeatherMap API key is not pushed to this repository. You can sign up on the OpenWeatherMap website to get your own API key for free.
 
