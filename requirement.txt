@@ -1,0 +1,5 @@
+requests
+sqlalchemy
+pandas
+psycopg2
+python-dotenv==0.19.1
