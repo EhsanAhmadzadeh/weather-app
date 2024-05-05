@@ -30,7 +30,7 @@ then activate your environment:
 source ./weatherappenv/bin/activate
 ```
 
-3. You can then clone the repository using this command::
+3. You can then clone the repository using this command:
 
 ```bash
 git clone https://github.com/Ehsan457/weather-app.git
