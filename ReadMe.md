@@ -16,12 +16,18 @@ for doing that open a terminal, change directory the the place you want clone th
 do the following commands in your terminal:
 
 1. First create a virtual environment, here you can install and use virtualenv:
-   
+
+install virtualenv using pip:
 ```bash
 pip install virtualenv
 ```
+create your environment:
 ```bash
 virtualenv weatherappenv
+```
+then activate your environment:
+```bash
+source ./weatherappenv/bin/activate
 ```
 
 3. You can then clone the repository using this command::
