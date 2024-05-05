@@ -17,12 +17,12 @@ do the following commands in your terminal:
 
 1. First create a virtual environment, here you can install and use virtualenv:
    
-'''bash
+```bash
 pip install virtualenv
-'''
-'''bash
+```
+```bash
 virtualenv weatherappenv
-'''
+```
 
 3. You can then clone the repository using this command::
 
