@@ -16,6 +16,7 @@ for doing that open a terminal, change directory the the place you want clone th
 do the following commands in your terminal:
 
 1. First create a virtual environment, here you can install and use virtualenv:
+   
 '''bash
 pip install virtualenv
 '''
@@ -23,7 +24,7 @@ pip install virtualenv
 virtualenv weatherappenv
 '''
 
-2. You can then clone the repository using this command::
+3. You can then clone the repository using this command::
 
 ```bash
 git clone https://github.com/Ehsan457/weather-app.git
